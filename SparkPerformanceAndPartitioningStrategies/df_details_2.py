@@ -1,4 +1,3 @@
-import random as rand
 import pandas as pd
 
 def df_details_2(df):
