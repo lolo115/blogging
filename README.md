@@ -1,6 +1,6 @@
 # Content
 
-Code sample used in my various blogs:
+Code samples used in my various blogs:
 
 https://medium.com/@laurent.leturgez
 
